@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Personnel>
+    <workers>
+        <worker DOB="41.03.2500" fullName="Иванов Аба Гавкович" turn-to="07.03.2011"/>
+    </workers>
+    <managers>
+    </managers>
+    <others>
+        <leader DOB="41.03.2500" fullName="Billy Herrington" textDescription="Boss of the gym" turn-to="25.03.4000"/>
+    </others>
+</Personnel>

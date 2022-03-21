@@ -1,0 +1,9 @@
+employeePosition  fullName  DOB  turn-to  workerList  textDescription
+worker  Иванов Аба Гавкович  25.03.3000  05.03.4000
+worker  Петров Иван Гаврикович  41.03.2500  25.03.4000
+manager  Karl  25.03.3000  05.03.4000  Иванов Аба Гавкович,Петров Иван Гаврикович,
+manager  Klara  41.03.2500  25.03.4000  Glados,
+secretary  Van Darkholme  25.03.3000  05.03.4000    Streamer
+leader  Billy Herrington  41.03.2500  25.03.4000    Boss of the gym
+HR  Jozeph Jostar  02.03.3100  25.03.4000    Ora Ora Ora
+worker  Glados  41.03.2500  25.03.4000
